@@ -13,7 +13,7 @@ The [following graphic](https://coronavirus.jhu.edu/data/state-timeline/new-deat
 ## Data Question
 * What are the predictors for total COVID-19 deaths and how do they influence outcomes?
 * What do confirmed COVID-19 deaths in Maryland look like for different age groups, races, and genders? 
-* Cluster Q
+* Which counties are most affected by COVID-19 (in terms of 
 
 ## Data
 This analysis used datasets from [Maryland Open Data](https://opendata.maryland.gov). The program provides transparency about state trends to facilitate decision and policy-making.
@@ -72,6 +72,9 @@ The graph illustrates the presence of racial discrepancies. In November, Whites 
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Percentage%20of%20Maryland%20COVID-19%20Confirmed%20Deaths%20By%20Race%20in%20November%202020.png)
 
 The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that whites account for 58.5% of the population, African Americans for 31.10%, Hispanics for 10.6%, and Asians for 6.70% (hispanics may be double-counted in the data if they have reported being part of multiple races). When we analyze the pie chart, we see that African Americans and Hispanics account for larger percentages of COVID-19 confirmed deaths than their percentages of the total population would indicate, which means that they could be more at risk.
+
+### Cluster Analyses - Understanding Which Counties are Most Affected
+
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
