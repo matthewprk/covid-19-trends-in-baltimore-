@@ -1,4 +1,4 @@
-# Covid-19-Trends-in-Maryland-
+# Covid-19-Trends-and-Resource-Distribution-in-Maryland
 
 ## Background 
 In 2020, the COVID-19 pandemic has spread across the United States. According to the Johns Hopkins University [Coronavirus Resource Center](https://coronavirus.jhu.edu/region/us/maryland), Maryland had 228,471 cases and 5,064 deaths as of December 12, 2020. The [Maryland Department of Health](https://coronavirus.maryland.gov) has taken action to address the COVID-19 pandemic, including expanding testing, increasing contract tracing, and sharing guidelines to mitigate the risk of contracting the virus. With the winter months looming ahead, however, the situation could worsen before improving. A critical factor in Maryland's recovery is the distribution of recently approved vaccines, but the question of how to distribute resources remains.
