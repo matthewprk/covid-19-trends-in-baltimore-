@@ -28,10 +28,22 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 ## Data Answer
 ### Multiple Linear Regression - Understanding Predictors and Problem Scope
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Regression%20Statistics.png)
+
+The multiple linear regression shows statistically significant predictors for cumulative COVID-19 deaths in Maryland:
+  * Predictors:
+  * Equation: 
+
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Total%20Deaths%20vs.%20Days%20Since%20Start%20Prediction%20Fit.png) 
 
-### Rolling Averages
+The fitting model suggests that cumulative COVID-19 deaths in Maryland follows a 'poly3' pattern:
+  * Fitting Equation:
+  * R-Square Value: 
+  * Prediction for 12/30/2020: 
+  
+### Rolling Averages - Understanding Trends
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
+
+The rolling averages graphs show that 
 
 
 ### Pivot Tables and Pivot Charts - Understanding Who is Affected
