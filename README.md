@@ -76,9 +76,7 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
 
-The analysis also shows that hospitalizations are a major driver for the increase in total cumulative deaths. The two variables' movements closely follow one another. Thus, further resource allocation towards 1) preventing the development of severe symptoms 2) improving quality and access to care in hospitals will be important.
-
-
+The analysis also shows that hospitalizations are a major driver for the increase in total cumulative deaths. The two variables' movements closely follow one another. Thus, further resource allocation towards 1) preventing the development of severe symptoms 2) improving quality and access to care in hospitals will be important. A key implication that the Department of Health will face is whether or not to prioritize hospital care or vaccine treatment. With finite resources, it is important to find the most effective balance between both options. 
 
 
 As for next steps, it'd be interesting to investigate the impact of variables in [University of Washington's SEIR Model](https://covid19.healthdata.org/united-states-of-america/maryland?view=total-deaths&tab=trend). The model takes into account mask-wearing, policy changes, vaccine rollout, and social distancing. It appears that mask-wearing has the strongest potential to reduce future COVID mortality. Thus, further analysis regarding mask distribution, mask-wearing habits, and mask-wearing policies could supplement the current findings. 
