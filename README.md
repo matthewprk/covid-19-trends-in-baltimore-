@@ -3,6 +3,10 @@
 ## Background 
 In 2020, the COVID-19 pandemic has spread across the United States. According to the Johns Hopkins University [Coronavirus Resource Center](https://coronavirus.jhu.edu/region/us/maryland), Maryland had 228,471 cases and 5,064 deaths as of December 12, 2020. The [Maryland Department of Health](https://coronavirus.maryland.gov) has taken action to address the COVID-19 pandemic, including expanding testing, increasing contract tracing, and sharing guidelines to mitigate the risk of contracting the virus. With the winter months looming ahead, however, the situation could worsen before improving. A critical factor in Maryland's recovery is the distribution of recently approved vaccines, but the question of how to distribute resources remains.
 
+The following graphic shows that MAryland's situation is getting worse in terms of cumulative deaths. It's interesting to note that despite newly implemented lockdown policies (orange lines), deaths continue to increase at an increasing rate. Thus, it is critical that Maryland's Department of Health understand what is causing these changes and who is most affected. 
+
+![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Deaths%20Timeline%20Graph.png) 
+
 ## Business Question
 * How should Maryland distribute resources to support the most vulnerable groups to COVID-19?
 
@@ -22,6 +26,15 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 * [Maryland's Confirmed COVID-19 Total Hospitalizations Statewide by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Total_Hospitalizations.csv)
 
 ## Data Answer
+### Multiple Linear Regression - Understanding Predictors and Problem Scope
+![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Regression%20Statistics.png)
+![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Total%20Deaths%20vs.%20Days%20Since%20Start%20Prediction%20Fit.png) 
+
+### Rolling Averages
+![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
+
+
+
 
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID-19%20Cumulative%20Confirmed%20Deaths%20By%20Age%20Group.png)
 
@@ -45,5 +58,6 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
+![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/UW%20Model%20COVID%20Deaths%20Scenarios.png)
 
 
