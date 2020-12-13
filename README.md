@@ -70,6 +70,7 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
+[University of Washington Model](https://covid19.healthdata.org/united-states-of-america/maryland?view=total-deaths&tab=trend)
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/UW%20Model%20COVID%20Deaths%20Scenarios.png)
 
 
