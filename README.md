@@ -34,7 +34,7 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
 
 
-
+### Pivot Tables and Pivot Charts - Understanding Who is Affected
 
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID-19%20Cumulative%20Confirmed%20Deaths%20By%20Age%20Group.png)
 
