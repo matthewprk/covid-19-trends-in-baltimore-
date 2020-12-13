@@ -48,7 +48,7 @@ Note that although we can use this poly3 fit equation to predict the total cumul
 ### Rolling Averages - Understanding Trends [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZE6mmDmrSa-LYPKPn0hQOVz1uDfzyC-?usp=sharing)
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
 
-The rolling averages graphs show that 
+The rolling averages graphs further demonstrate the trends found from the multiple linear regression. The weekly rolling averages for total deaths and total hospitalizations closely track one another. And despite the consistent increase in the weekly rolling average for testing, it appears to have had little effect on decreasing the rolling averages for deaths and hospitalizations. Thus it is plausible that reducing hospitalizations or improving in-hospital care will be where resource allocation should go. 
 
 
 ### Pivot Tables and Pivot Charts - Understanding Who is Affected
@@ -75,7 +75,15 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
-[University of Washington Model](https://covid19.healthdata.org/united-states-of-america/maryland?view=total-deaths&tab=trend)
+
+The analysis also shows that hospitalizations are a major driver for the increase in total cumulative deaths. The two variables' movements closely follow one another. Thus, further resource allocation towards 1) preventing the development of severe symptoms 2) improving quality and access to care in hospitals will be important.
+
+
+
+
+As for next steps, it'd be interesting to investigate the impact of variables in [University of Washington's SEIR Model](https://covid19.healthdata.org/united-states-of-america/maryland?view=total-deaths&tab=trend). The model takes into account mask-wearing, policy changes, vaccine rollout, and social distancing. It appears that mask-wearing has the strongest potential to reduce future COVID mortality. Thus, further analysis regarding mask distribution, mask-wearing habits, and mask-wearing policies could supplement the current findings. 
+
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/UW%20Model%20COVID%20Deaths%20Scenarios.png)
 
+Additionally, a geospatial anaylsis could yield more efficient resource allocation. Although our cluster analysis determined which counties were most affected, a geospatial anaylsis could determine whether or not these counties are clustered in targeted regions. 
 
