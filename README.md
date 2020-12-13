@@ -77,6 +77,12 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 
 ### Cluster Analyses - Understanding Which Counties are Most Affected
 
+In order to show a "story" and illustrate how the COVID-19 clusters may have changed over time, cluster analyses were conducted for three dates: April 3, August 4, and December 4, 2020. These are three "snapshots" of the data, with April 3 being the earliest date for which confirmed cases and confirmed deaths data were available and December 4 being the most recent data that we had downloaded (as od December 4, 2020). August 4 was calculated as being athe date in the middle between April 3 and December 4. 
+
+![alt_text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/MD%20COVID-19%20Cases%20v%20Deaths_12-4%20scatter%20plot.jpg)
+
+The graph shows a scatter plot of the raw data on December 4, 2020. 
+
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
