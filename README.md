@@ -7,6 +7,7 @@ In 2020, the COVID-19 pandemic has spread across the United States. According to
 * How should Maryland distribute resources to support the most vulnerable groups to COVID-19?
 
 ## Data Question
+* What are the predictors for total COVID-19 deaths and how do they influence outcomes?
 * What do confirmed COVID-19 deaths in Maryland look like for different age groups, races, and genders? 
 
 ## Data
