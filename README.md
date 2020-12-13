@@ -91,6 +91,12 @@ The graph shows a scatter plot of the data on August 4, 2020 (the "middle" date)
 
 The graph shows a scatter plot of the data on December 4, 2020 (the most recent date as of when we downloaded the data on December 4). 
 
+Across these three graphs, while we cannot track which county is which dot on each graph, we can see that the relationship between cases and deaths seems to have become stronger/clearer as time has passed. The (linear?) relationship appears scattered, at best, on April 3, but it starts to become a bit more linear on August 4. By December 4, the scatter plot shows the clearest potential for a linear relationship. 
+
+In addition, as time passes, there seems to be a stronger tendency for counties to "cluster" towards the origin of the graph. 
+
+The cluster analyses in Excel, at the moment, has had difficulty sorting the counties into anchor groups, so this part will be updated at a later date. 
+
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
