@@ -15,6 +15,11 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 * [Maryland's Confirmed COVID-19 Deaths By Age Distribution](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Confirmed_Deaths_by_Age_Distribution.csv)
 * [Maryland's Confirmed COVID-19 Deaths by Race](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Confirmed_Deaths_by_Race_and_Ethnicity_Distribution.csv)
 * [Maryland's Confirmed COVID-19 Deaths by Gender](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Confirmed_Deaths_by_Gender_Distribution.csv)
+* [Maryland's Confirmed COVID-19 Deaths by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDC19_DeathsbyDate.csv)
+* [Maryland's Confirmed COVID-19 Hospitalizations by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDC19_HospitalizationsByDate.csv)
+* [Maryland's Confirmed COVID-19 Testing by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDC19_TestingbyDate.csv)
+* [Maryland's Confirmed COVID-19 Total Cases Statewide by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDCOVID19_TotalCasesStatewide.csv)
+* [Maryland's Confirmed COVID-19 Total Hospitalizations Statewide by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Total_Hospitalizations.csv)
 
 ## Data Answer
 
