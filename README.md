@@ -40,7 +40,7 @@ The fitting model suggests that cumulative COVID-19 deaths in Maryland follows a
   * R-Square Value: 
   * Prediction for 12/30/2020: 
   
-### Rolling Averages - Understanding Trends
+### Rolling Averages - Understanding Trends [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZE6mmDmrSa-LYPKPn0hQOVz1uDfzyC-?usp=sharing)
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
 
 The rolling averages graphs show that 
