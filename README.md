@@ -25,6 +25,8 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 * [Maryland's Confirmed COVID-19 Testing by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDC19_TestingbyDate.csv)
 * [Maryland's Confirmed COVID-19 Total Cases State-wide by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MDCOVID19_TotalCasesStatewide.csv)
 * [Maryland's Confirmed COVID-19 Total Hospitalizations State-wide by Date](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Total_Hospitalizations.csv)
+* [Maryland's COVID-19 Cases by County](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Cases_by_County.csv)
+* [Maryland's Confirmed COVID-19 Deaths by County](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Confirmed_Deaths_by_County.csv)
 
 ## Data Answer
 ### Multiple Linear Regression - Understanding Predictors and Problem Scope
