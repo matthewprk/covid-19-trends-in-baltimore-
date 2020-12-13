@@ -30,15 +30,19 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Regression%20Statistics.png)
 
 The multiple linear regression shows statistically significant predictors for cumulative COVID-19 deaths in Maryland:
-  * Predictors:
-  * Equation: 
+  * Predictors (excl. Intercept): Daily Total Tests, Total Cases, Total Hospitalizations, Rolling Average % Positive, Total Cases > Age 60
+  * Equation: Total Deaths = 155.6687532 + 0.001196659(Daily Total Tests) - 0.023330713(Total Cases) + 0.353647773(Total Hospitalizations) - 20.64741629(Rolling Average % Positive) + 0.042615389(Total Cases Age > 60)
 
+An interesting observation is that Total Cumulative Deaths isinversely related to Rolling Average % Positive and Total Cases. Meaning that the increases in deaths are not explained by an increase in absolute or percentage positive cases. The biggest drivers for deaths are Hospitalizations and Cases Age > 60. Meaning that the impact of 1) preventing hospitalizations (severe symptom development) 2) quality of care in hospitals (capacity, treatment efficacy) should be studied further.
+								
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Total%20Deaths%20vs.%20Days%20Since%20Start%20Prediction%20Fit.png) 
 
 The fitting model suggests that cumulative COVID-19 deaths in Maryland follows a 'poly3' pattern:
-  * Fitting Equation:
-  * R-Square Value: 
-  * Prediction for 12/30/2020: 
+  * Fitting Equation: Cumulative Deaths = 0.0007(x)^3 - 0.3446(x)^2 + 63.727(x) - 489.89, where x = # of days since 3/29/2020
+  * R-Square Value: 0.9938
+  * Prediction for 12/30/2020: 5,566 total cumulative deaths 
+  
+Note that although we can use this poly3 fit equation to predict the total cumulative deaths on a certain day, it is likely that the data will have to be refitted once new data and events arise (vaccine, policy changes, maks-wearing). 
   
 ### Rolling Averages - Understanding Trends [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZE6mmDmrSa-LYPKPn0hQOVz1uDfzyC-?usp=sharing)
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID%20Rolling%20Averages.png)
