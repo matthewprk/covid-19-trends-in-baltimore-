@@ -101,6 +101,11 @@ There were three types of cluster groups (high cases/deaths, very high cases/dea
 * A cluster that comprised the majority of counties, in which counties began the pandemic (on April 3) with a low case/death count and maintained low counts to the present (as of December 4).
 * A cluster that began the pandemic (on April 3) with very high cases and very high death counts, and maintained these very high counts, up until the present (December 4). 
 
+![alt_text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Cluster%20Analyses%20Interpretation.jpg)
+
+This image shows the breakdown, by county and by date, of the cluster analyses. A majority of counties were sorted into the cluster that began the pandemic with low counts for cases/deaths and maintained that lower value.
+
+Please note that the numbers in the "MASTER CLUSTER" column refer to the cluster groups to which each county belongs. For example, the value "123" means that that county was sorted into cluster group 1 for April 3, cluster group 2 for August 4, and cluster group 3 for December 4. 
 
 ## Business Answer
 With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should consider protecting the most vulnerable populations first in order to prevent more deaths and spread. The data analysis about Maryland's COVID-19 confirmed deaths demonstrates that the elderly and certain racial minorities are more at risk.
