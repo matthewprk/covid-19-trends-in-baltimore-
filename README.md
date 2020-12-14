@@ -77,7 +77,7 @@ The [U.S. Census Bureau](https://www.census.gov/quickfacts/MD) estimates that wh
 
 ### Cluster Analyses - Understanding Which Counties are Most Affected
 
-In order to show a "story" and illustrate how the COVID-19 clusters may have changed over time, cluster analyses were conducted for three dates: April 3, August 4, and December 4, 2020. These are three "snapshots" of the data, with April 3 being the earliest date for which confirmed cases and confirmed deaths data were available and December 4 being the most recent data that we had downloaded (as od December 4, 2020). August 4 was calculated as being athe date in the middle between April 3 and December 4. 
+In order to show a "story" and illustrate how the COVID-19 clusters may have changed over time, cluster analyses were conducted for three dates: April 3, August 4, and December 4, 2020. These are three "snapshots" of the data, with April 3 being the earliest date for which confirmed cases and confirmed deaths data were available and December 4 being the most recent data that we had downloaded (as of December 4, 2020). August 4 was calculated as being athe date in the middle between April 3 and December 4. 
 
 ![alt_text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/MD%20COVID-19%20Cases%20v%20Deaths_4-3%20scatter%20plot.jpg) 
 
@@ -95,7 +95,11 @@ Across these three graphs, while we cannot track which county is which dot on ea
 
 In addition, as time passes, there seems to be a stronger tendency for counties to "cluster" towards the origin of the graph. 
 
-The cluster analyses in Excel, at the moment, has had difficulty sorting the counties into anchor groups, so this part will be updated at a later date. 
+There were three types of cluster groups (high cases/deaths, very high cases/deaths, and low cases/deaths) that appeared for each of the three dates. Overall, the cluster groups that appeared when compiling all three cluster analyses together were: 
+* A cluster that began the pandemic (on April 3) with high case and death counts and continued to have high counts of cases and deaths up until the present (December 4).
+* A cluster that began the pandemic (on April 3) with high case and death counts, but got it under control by the "midway point" (August 4) such that they saw low cases and low death counts. They maintained this low case/death count to our best knowledge, as of December 4.
+* A cluster that comprised the majority of counties, in which counties began the pandemic (on April 3) with a low case/death count and maintained low counts to the present (as of December 4).
+* A cluster that began the pandemic (on April 3) with very high cases and very high death counts, and maintained these very high counts, up until the present (December 4). 
 
 
 ## Business Answer
