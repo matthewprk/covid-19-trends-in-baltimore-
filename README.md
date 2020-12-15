@@ -17,7 +17,7 @@ The [following graphic](https://coronavirus.jhu.edu/data/state-timeline/new-deat
 ## Data Question
 * What are the predictors for total COVID-19 deaths and how do they influence outcomes?
 * What do confirmed COVID-19 deaths in Maryland look like for different age groups, races, and genders? 
-* Which counties are most affected by COVID-19 (in terms of 
+* Which counties are most affected by COVID-19?
 
 ## Data
 This analysis used datasets from [Maryland Open Data](https://opendata.maryland.gov). The program provides transparency about state trends to facilitate decision and policy-making.
