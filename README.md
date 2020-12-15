@@ -29,7 +29,7 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 * [Maryland's Confirmed COVID-19 Deaths by County](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Data/MD_COVID-19_-_Confirmed_Deaths_by_County.csv)
 
 ## Data Answer
-### [Multiple Linear Regressio](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Excel%20Analysis/Final%20Project%20MLR.xlsx)) - Understanding Predictors and Problem Scope
+### [Multiple Linear Regression](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Excel%20Analysis/Final%20Project%20MLR.xlsx)) - Understanding Predictors and Problem Scope
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Regression%20Statistics.png)
 
 The multiple linear regression shows statistically significant predictors for cumulative COVID-19 deaths in Maryland:
