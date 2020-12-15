@@ -53,7 +53,7 @@ Note that although we can use this poly3 fit equation to predict the total cumul
 The rolling averages graphs further demonstrate the trends found from the multiple linear regression. The weekly rolling averages for total deaths and total hospitalizations closely track one another. And despite the consistent increase in the weekly rolling average for testing, it appears to have had little effect on decreasing the rolling averages for deaths and hospitalizations. Thus it is plausible that reducing hospitalizations or improving in-hospital care will be where resource allocation should go. 
 
 
-### Pivot Tables and Pivot Charts - Understanding Who is Affected
+### [Pivot Tables and Pivot Charts](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Excel%20Analysis/Maryland%20COVID-19%20Pivot%20Tables.xlsx) - Understanding Who is Affected
 
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Maryland%20COVID-19%20Cumulative%20Confirmed%20Deaths%20By%20Age%20Group.png)
 
