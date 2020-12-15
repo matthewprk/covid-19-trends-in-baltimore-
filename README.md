@@ -32,7 +32,7 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 ### Multiple Linear Regression - Understanding Predictors and Problem Scope
 ![alt text](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Screenshots%20of%20Data%20Answer/Regression%20Statistics.png)
 
-The multiple linear regression shows statistically significant predictors for cumulative COVID-19 deaths in Maryland:
+The [multiple linear regression](https://github.com/matthewprk/covid-19-trends-in-maryland-/blob/main/Excel%20Analysis/Final%20Project%20MLR.xlsx) shows statistically significant predictors for cumulative COVID-19 deaths in Maryland:
   * Predictors (excl. Intercept): Daily Total Tests, Total Cases, Total Hospitalizations, Rolling Average % Positive, Total Cases > Age 60
   * Equation: Total Deaths = 155.6687532 + 0.001196659(Daily Total Tests) - 0.023330713(Total Cases) + 0.353647773(Total Hospitalizations) - 20.64741629(Rolling Average % Positive) + 0.042615389(Total Cases Age > 60)
 
